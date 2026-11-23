@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- steam -->
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M44,30 C40,34 48,37 44,41" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M54,27 C50,31 58,34 54,38" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M64,30 C60,34 68,37 64,41" />
+    <!-- lid -->
+    <path android:fillColor="#FFFFFF" android:pathData="M30,47 h48 a2.5,2.5 0 0 1 0,5 h-48 a2.5,2.5 0 0 1 0,-5 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M50,43 h8 a2,2 0 0 1 0,4 h-8 a2,2 0 0 1 0,-4 z" />
+    <!-- pot -->
+    <path android:fillColor="#FFFFFF" android:pathData="M34,55 h40 v15 a9,9 0 0 1 -9,9 h-22 a9,9 0 0 1 -9,-9 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M26,57 h8 v5 h-8 a2.5,2.5 0 0 1 0,-5 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M74,57 h8 a2.5,2.5 0 0 1 0,5 h-8 z" />
+    <!-- star -->
+    <path android:fillColor="#A0461F"
+        android:pathData="M54,59 l2.4,4.9 5.4,0.8 -3.9,3.8 0.9,5.4 -4.8,-2.5 -4.8,2.5 0.9,-5.4 -3.9,-3.8 5.4,-0.8 z" />
+</vector>
